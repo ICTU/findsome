@@ -4,13 +4,12 @@
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
 
-meteor-platform
-underscore
+underscore@1.0.10
 iron:router
 sacha:spin
 ian:accounts-ui-bootstrap-3
-accounts-password
-audit-argument-checks
+accounts-password@1.3.6
+audit-argument-checks@1.0.7
 natestrauser:select2
 zimme:select2-bootstrap3-css
 tap:i18n
@@ -20,3 +19,20 @@ mizzao:jquery-ui
 dsyko:jquery-ui-touch-punch
 sanjo:jasmine
 velocity:html-reporter
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
+standard-minifier-css
+standard-minifier-js
+shell-server
+twbs:bootstrap
