@@ -1,1 +1,1 @@
-FROM meteorhacks/meteord
+FROM jshimko/meteor-launchpad:latest
