@@ -1,0 +1,26 @@
+{
+  "name": "findsome",
+  "version": "1.0.0",
+  "description": "Track sources, findings, conclusions, risks, and measures for due diligences, intakes, audits, or other types of investigation.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICTU/findsome.git"
+  },
+  "author": "Frank Niessink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ICTU/findsome/issues"
+  },
+  "homepage": "https://github.com/ICTU/findsome#readme",
+  "dependencies": {
+    "babel-runtime": "^6.23.0",
+    "bcrypt": "^1.0.2"
+  }
+}
